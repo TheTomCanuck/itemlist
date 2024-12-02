@@ -88,6 +88,7 @@
       "degree": 0,
       "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
       "stats": [
+        "Morbid meditation focus type allowed.",
         "x50% global certainty loss factor"
       ],
       "conflicts": [],
@@ -95,6 +96,7 @@
       "data": {
         "conflicts": [],
         "stats": [
+          "Morbid meditation focus type allowed.",
           "x50% global certainty loss factor"
         ],
         "canBypassLimit": false,
@@ -360,6 +362,8 @@
       "degree": 0,
       "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
       "stats": [
+        "Artistic meditation focus type disabled.",
+        "Minimal meditation focus type allowed.",
         "x50% global certainty loss factor"
       ],
       "conflicts": [
@@ -375,6 +379,8 @@
           "gourmand"
         ],
         "stats": [
+          "Artistic meditation focus type disabled.",
+          "Minimal meditation focus type allowed.",
           "x50% global certainty loss factor"
         ],
         "canBypassLimit": false,
@@ -504,6 +510,7 @@
       "degree": 0,
       "description": "Timmy loves fire. he will never extinguish fires, and will occasionally go on random fire starting sprees. he will be happy around flames, and happier when wielding an incendiary weapon.",
       "stats": [
+        "Flame meditation focus type allowed.",
         "Only mental break \"FireStartingSpree\" allowed."
       ],
       "conflicts": [],
@@ -511,6 +518,7 @@
       "data": {
         "conflicts": [],
         "stats": [
+          "Flame meditation focus type allowed.",
           "Only mental break \"FireStartingSpree\" allowed."
         ],
         "canBypassLimit": false,
@@ -1952,7 +1960,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 50
+      "price": 2917
     },
     {
       "data": {
