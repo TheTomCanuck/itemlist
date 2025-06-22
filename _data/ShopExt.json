@@ -1960,7 +1960,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 1
     },
     {
       "data": {
@@ -1982,7 +1982,7 @@
       "defName": "CreepJoiner",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 1
     }
   ]
 }
