@@ -681,7 +681,7 @@
 	{
 		"abr": "kibble",
 		"price": 2,
-		"category": "Foods",
+		"category": "Animal Feed",
 		"defname": "Kibble"
 	},
 	{
@@ -903,7 +903,7 @@
 	{
 		"abr": "agavefruit",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Fruits",
 		"defname": "RawAgave"
 	},
 	{
@@ -915,13 +915,13 @@
 	{
 		"abr": "berries",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Fruits",
 		"defname": "RawBerries"
 	},
 	{
 		"abr": "hay",
 		"price": 1,
-		"category": "Foods",
+		"category": "Animal Feed",
 		"defname": "Hay"
 	},
 	{
@@ -3404,7 +3404,7 @@
 	},
 	{
 		"abr": "adrenalheart",
-		"price": 157,
+		"price": 158,
 		"category": "Ghoul",
 		"defname": "AdrenalHeart"
 	},
@@ -5381,7 +5381,685 @@
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Intellectual"
+	},
+	{
+		"abr": "advancedscarletcollector",
+		"price": 917,
+		"category": "Production",
+		"defname": "AdvancedLuciferiumCollector"
+	},
+	{
+		"abr": "alyssumtrimings",
+		"price": 8,
+		"category": "Plant matter",
+		"defname": "AlyssumTrimings"
+	},
+	{
+		"abr": "antibiotics",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "VG_antibiotics"
+	},
+	{
+		"abr": "aoceilingsunlamp",
+		"price": 129,
+		"category": "Furniture",
+		"defname": "AO_CeilSunLamp"
+	},
+	{
+		"abr": "aominiceilingsunlamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "AO_MiniCeilSunLamp"
+	},
+	{
+		"abr": "aominisunlamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "AO_MiniSunLamp"
+	},
+	{
+		"abr": "aosmallceilingsunlamp",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "AO_SmallCeilSunLamp"
+	},
+	{
+		"abr": "aosmallsunlamp",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "AO_SmallSunLamp"
+	},
+	{
+		"abr": "aosunlamp",
+		"price": 129,
+		"category": "Furniture",
+		"defname": "AO_SunLamp"
+	},
+	{
+		"abr": "apache",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "BHD_Fentanyl"
+	},
+	{
+		"abr": "apples",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawapple"
+	},
+	{
+		"abr": "bamboo",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "Bamboo"
+	},
+	{
+		"abr": "bamboobonsaipot",
+		"price": 82,
+		"category": "Furniture",
+		"defname": "PlantPot_BambooBonsai"
+	},
+	{
+		"abr": "banana",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawbanana"
+	},
+	{
+		"abr": "bandagekit",
+		"price": 10,
+		"category": "Medicine",
+		"defname": "Bandagekit"
+	},
+	{
+		"abr": "barley",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawBarley"
+	},
+	{
+		"abr": "barleytea",
+		"price": 13,
+		"category": "Garden Drinks",
+		"defname": "VG_BarleyTea"
+	},
+	{
+		"abr": "bean",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawbean"
+	},
+	{
+		"abr": "biofuel",
+		"price": 7,
+		"category": "Manufactured",
+		"defname": "VG_Biofuel"
+	},
+	{
+		"abr": "bliss",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "BHD_Morphine"
+	},
+	{
+		"abr": "bluesky",
+		"price": 133,
+		"category": "Drugs",
+		"defname": "BHD_Meth"
+	},
+	{
+		"abr": "blueberry",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawblueberry"
+	},
+	{
+		"abr": "bowlofstew",
+		"price": 75,
+		"category": "Lavish Meals",
+		"defname": "bowlstew"
+	},
+	{
+		"abr": "cactusfruit",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawCactusFruit"
+	},
+	{
+		"abr": "carnivorebowlofstew",
+		"price": 75,
+		"category": "Lavish Meals",
+		"defname": "bowlstew_Meat"
+	},
+	{
+		"abr": "carnivorestir-frymeal",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "Mealstirfry_Meat"
+	},
+	{
+		"abr": "ceilingsunlamp",
+		"price": 128,
+		"category": "Furniture",
+		"defname": "CeilingSunLamp"
+	},
+	{
+		"abr": "cherries",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "RawCherry"
+	},
+	{
+		"abr": "chocolatemilk",
+		"price": 25,
+		"category": "Garden Drinks",
+		"defname": "Chocomilk"
+	},
+	{
+		"abr": "cigarillos",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Cigarillos"
+	},
+	{
+		"abr": "cloudberry",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawcloudberry"
+	},
+	{
+		"abr": "coconut",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "RawCoconut"
+	},
+	{
+		"abr": "coffeebeans",
+		"price": 7,
+		"category": "Plant matter",
+		"defname": "CPD_CoffeeBeans"
+	},
+	{
+		"abr": "compoststarter",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "VG_Compost"
+	},
+	{
+		"abr": "compressedscarletsludge",
+		"price": 1,
+		"category": "Manufactured",
+		"defname": "LuciferiumDrops"
+	},
+	{
+		"abr": "compressedsludgeplatform",
+		"price": 195,
+		"category": "Furniture",
+		"defname": "VCHE_CompressedScarletSludgePlatform"
+	},
+	{
+		"abr": "dandelioncuttings",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "VG_DandelionCuttings"
+	},
+	{
+		"abr": "dandeliontea",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "VG_DandelionTea"
+	},
+	{
+		"abr": "date",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawdate"
+	},
+	{
+		"abr": "de-worm",
+		"price": 37,
+		"category": "Drugs",
+		"defname": "Deworm"
+	},
+	{
+		"abr": "fertilizer",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "RawFertilizer"
+	},
+	{
+		"abr": "fig",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawfig"
+	},
+	{
+		"abr": "fluez",
+		"price": 37,
+		"category": "Drugs",
+		"defname": "VG_FluEz"
+	},
+	{
+		"abr": "foodshelf2x2",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "VG_FoodShelf"
+	},
+	{
+		"abr": "fruitjuicedrink",
+		"price": 12,
+		"category": "Garden Drinks",
+		"defname": "Fruitdrink"
+	},
+	{
+		"abr": "gardencoffee",
+		"price": 13,
+		"category": "Garden Drinks",
+		"defname": "Coffee"
+	},
+	{
+		"abr": "gardenfish",
+		"price": 3,
+		"category": "Garden meat",
+		"defname": "VG_GardenFish"
+	},
+	{
+		"abr": "gardentea",
+		"price": 13,
+		"category": "Garden Drinks",
+		"defname": "Cuptea"
+	},
+	{
+		"abr": "glitterworldinoculation",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "GW_Inoculation"
+	},
+	{
+		"abr": "glitterworldneutroamine",
+		"price": 20,
+		"category": "Manufactured",
+		"defname": "Glitterworld_Neutroamine"
+	},
+	{
+		"abr": "gooseberry",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawgooseberry"
+	},
+	{
+		"abr": "grapes",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawgrape"
+	},
+	{
+		"abr": "hardtack",
+		"price": 2,
+		"category": "Foods",
+		"defname": "VG_Hardtack"
+	},
+	{
+		"abr": "heatedceilngsunlamp",
+		"price": 467,
+		"category": "Furniture",
+		"defname": "HeatedceilngSunLamp"
+	},
+	{
+		"abr": "heatedsunlamp",
+		"price": 467,
+		"category": "Furniture",
+		"defname": "HeatedSunLamp"
+	},
+	{
+		"abr": "heatedsunlampcolumn",
+		"price": 248,
+		"category": "Furniture",
+		"defname": "HeatedSunlampColumn"
+	},
+	{
+		"abr": "hivepiece",
+		"price": 250,
+		"category": "Raw resources",
+		"defname": "VG_Hivepiece"
+	},
+	{
+		"abr": "honey",
+		"price": 5,
+		"category": "Ingredients",
+		"defname": "Honey"
+	},
+	{
+		"abr": "honeymead",
+		"price": 18,
+		"category": "Drugs",
+		"defname": "Mead"
+	},
+	{
+		"abr": "ibuprofen",
+		"price": 18,
+		"category": "Drugs",
+		"defname": "VG_Ibuprofen"
+	},
+	{
+		"abr": "ice",
+		"price": 0,
+		"category": "Soils",
+		"defname": "SR_Ice"
+	},
+	{
+		"abr": "ironwood",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "VG_IronWoodLog"
+	},
+	{
+		"abr": "last-wish",
+		"price": 275,
+		"category": "Drugs",
+		"defname": "USH_LastWish"
+	},
+	{
+		"abr": "lifter",
+		"price": 87,
+		"category": "Drugs",
+		"defname": "USH_Lifter"
+	},
+	{
+		"abr": "luciferiumhealthsimulator",
+		"price": 1500,
+		"category": "Misc",
+		"defname": "USH_LuciferiumMedicalSimulator"
+	},
+	{
+		"abr": "luciferiummedicalpump",
+		"price": 7167,
+		"category": "Special",
+		"defname": "USH_LuciferiumMedicalPump"
+	},
+	{
+		"abr": "luciferiumsynthesizer",
+		"price": 1917,
+		"category": "Production",
+		"defname": "USH_LuciferiumSynthesizer"
+	},
+	{
+		"abr": "mechasuppressors",
+		"price": 217,
+		"category": "Drugs",
+		"defname": "USH_MechaSuppressors"
+	},
+	{
+		"abr": "mecha-gone",
+		"price": 42,
+		"category": "Drugs",
+		"defname": "MechaGone"
+	},
+	{
+		"abr": "miniceilingsunlamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "MiniCeilingSunLamp"
+	},
+	{
+		"abr": "miniceilngheatedsunlamp",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "HeatedMiniceilngSunLamp"
+	},
+	{
+		"abr": "miniheatedsunlamp",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "HeatedMiniSunLamp"
+	},
+	{
+		"abr": "minisunlamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "MiniSunLamp"
+	},
+	{
+		"abr": "mushroom",
+		"price": 3,
+		"category": "Garden meat",
+		"defname": "Rawmushroom"
+	},
+	{
+		"abr": "neutroflowerpetals",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "NeutroPetals"
+	},
+	{
+		"abr": "olive",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawOlive"
+	},
+	{
+		"abr": "orange",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Raworange"
+	},
+	{
+		"abr": "packagedcarnivoresurvivalmeal",
+		"price": 40,
+		"category": "Meals",
+		"defname": "MealSurvivalPackMeat"
+	},
+	{
+		"abr": "packagedvegetariansurvivalmeal",
+		"price": 40,
+		"category": "Meals",
+		"defname": "MealSurvivalPackVeg"
+	},
+	{
+		"abr": "peach",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawpeach"
+	},
+	{
+		"abr": "pileofdirt",
+		"price": 1,
+		"category": "Raw resources",
+		"defname": "VG_PileofDirt"
+	},
+	{
+		"abr": "pineapple",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawpineapple"
+	},
+	{
+		"abr": "redlentil",
+		"price": 3,
+		"category": "Garden meat",
+		"defname": "RawRedLentil"
+	},
+	{
+		"abr": "red-flicker",
+		"price": 153,
+		"category": "Drugs",
+		"defname": "USH_RedFlicker"
+	},
+	{
+		"abr": "richsoil",
+		"price": 0,
+		"category": "Soils",
+		"defname": "SR_RichSoil"
+	},
+	{
+		"abr": "sand",
+		"price": 0,
+		"category": "Soils",
+		"defname": "SR_Sand"
+	},
+	{
+		"abr": "scarletarch",
+		"price": 767,
+		"category": "Production",
+		"defname": "LuciferiumCollectorBoosterB"
+	},
+	{
+		"abr": "scarletattractor",
+		"price": 1083,
+		"category": "Special",
+		"defname": "USH_ScarletAttractor"
+	},
+	{
+		"abr": "scarletcollector",
+		"price": 692,
+		"category": "Production",
+		"defname": "LuciferiumCollector"
+	},
+	{
+		"abr": "scarleteye",
+		"price": 123,
+		"category": "Drugs",
+		"defname": "USH_ScarletEye"
+	},
+	{
+		"abr": "scarletflatmagnetnet",
+		"price": 1400,
+		"category": "Production",
+		"defname": "LuciferiumCollectorBoosterC"
+	},
+	{
+		"abr": "scarletmagnet",
+		"price": 311,
+		"category": "Production",
+		"defname": "LuciferiumCollectorBoosterA"
+	},
+	{
+		"abr": "scarletmechanites",
+		"price": 5,
+		"category": "Manufactured",
+		"defname": "LuciferiumCrystals"
+	},
+	{
+		"abr": "scarletmechanitesplatform",
+		"price": 195,
+		"category": "Furniture",
+		"defname": "VCHE_ScarletMechanitesPlatform"
+	},
+	{
+		"abr": "scarletrefinery",
+		"price": 1733,
+		"category": "Production",
+		"defname": "ScarlettRefinery"
+	},
+	{
+		"abr": "scarletsmellingsalts",
+		"price": 53,
+		"category": "Drugs",
+		"defname": "USH_ScarlettSmellingSalts"
+	},
+	{
+		"abr": "silage",
+		"price": 2,
+		"category": "Animal Feed",
+		"defname": "Silage"
+	},
+	{
+		"abr": "smallceilingsunlamp",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "SmallCeilingSunLamp"
+	},
+	{
+		"abr": "smallceilngheatedsunlamp",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "HeatedceilngSmallSunLamp"
+	},
+	{
+		"abr": "smallheatedsunlamp",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "HeatedSmallSunLamp"
+	},
+	{
+		"abr": "smallsunlamp",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "SmallSunLamp"
+	},
+	{
+		"abr": "snowbeet",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawsnowbeet"
+	},
+	{
+		"abr": "soil",
+		"price": 0,
+		"category": "Soils",
+		"defname": "SR_Soil"
+	},
+	{
+		"abr": "stir-frymeal",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "stirfry"
+	},
+	{
+		"abr": "stonysoil",
+		"price": 0,
+		"category": "Soils",
+		"defname": "SR_Gravel"
+	},
+	{
+		"abr": "sunlampcolumn",
+		"price": 195,
+		"category": "Furniture",
+		"defname": "SunlampColumn"
+	},
+	{
+		"abr": "sunlampcolumnao",
+		"price": 195,
+		"category": "Furniture",
+		"defname": "SunlampColumnAO"
+	},
+	{
+		"abr": "synthesizerprecisionbooster",
+		"price": 1283,
+		"category": "Production",
+		"defname": "USH_LuciferiumPrecisionBooster"
+	},
+	{
+		"abr": "tealeaves",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "Rawtea"
+	},
+	{
+		"abr": "tobacco",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "RawTobacco"
+	},
+	{
+		"abr": "vegetarianbowlofstew",
+		"price": 75,
+		"category": "Lavish Meals",
+		"defname": "bowlstew_Veg"
+	},
+	{
+		"abr": "vegetarianstir-frymeal",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "Mealstirfry_Veg"
+	},
+	{
+		"abr": "watermelon",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawwatermelon"
 	}
 	],
-	"total": 897
+	"total": 1010
 }

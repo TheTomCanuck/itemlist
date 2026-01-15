@@ -277,7 +277,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 250,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -327,27 +327,27 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 1600,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
 		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
+		"abr": "healanypawn",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -411,11 +411,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "equip",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "randomchildhood",
 		"price": 3000,
 		"karmatype": "Neutral"
@@ -436,5 +431,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 86
 }
